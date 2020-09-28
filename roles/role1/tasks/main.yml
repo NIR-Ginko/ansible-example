@@ -1,0 +1,5 @@
+---
+
+- name: First task
+  command: echo 'test'
+
